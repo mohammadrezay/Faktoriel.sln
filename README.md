@@ -1,6 +1,6 @@
 # Faktoriel.sln
 
-**Link:** [Quera Problem #589](https://quera.org/problemset/589)
+- **Link:** [Quera Problem #589](https://quera.org/problemset/589)
 - **Description:** Write programs that take the number **n** and calculate and display its factorial.
 - **Solution:** Implemented in C#.
 
